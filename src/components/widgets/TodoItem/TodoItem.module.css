@@ -14,7 +14,7 @@
 	padding: 0 5px 0 0;
 	height: 40px;
 	border-radius: 3px;
-	background-color: var(--color-graylight);
+	background-color: #a9a9a9;
 }
 
 .red {
@@ -30,7 +30,7 @@
 }
 
 .gray {
-	background-color: var(--color-graylight);
+	background-color: #a9a9a9;
 }
 
 .taskInfo {
