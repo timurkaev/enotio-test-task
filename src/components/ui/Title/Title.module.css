@@ -1,0 +1,15 @@
+.title {
+	font-family: var(--font-opensans);
+	color: var(--color-graylight);
+}
+
+.small {
+	font-size: 24px !important;
+	line-height: 28px !important;
+}
+
+.medium {
+	font-weight: 400 !important;
+	font-size: 36px !important;
+	line-height: 43px !important;
+}

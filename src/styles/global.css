@@ -1,0 +1,27 @@
+:root {
+	--font-opensans: "Open Sans", sans-serif;
+	--color-black: #121212;
+	--color-gray: #282828;
+	--color-white: #ffffff;
+	--color-graylight: #f4f4f4;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: var(--font-opensans);
+	background-color: var(--color-black);
+	color: var(--color-graylight);
+}
+
+.container {
+	min-width: 100vw;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

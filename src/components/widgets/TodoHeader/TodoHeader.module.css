@@ -1,0 +1,12 @@
+.header {
+	width: 312px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.popup {
+	background-color: var(--color-gray) !important;
+	color: var(--color-graylight) !important;
+}
